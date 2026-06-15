@@ -44,5 +44,10 @@ authors:
     affiliation: NVIDIA
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+  - family-names: Dong
+    given-names: Xue
+    orcid: https://orcid.org/0009-0009-8335-558X
+    website: https://github.com/alicexdong
+    affiliation: Colorado State University
 title: "Cookbook Template"
 abstract: "A sample cookbook description."
